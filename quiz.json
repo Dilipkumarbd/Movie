@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your movie knowledge with this fun quiz!",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who directed Titanic?",
+      "answers": ["Cameron", "Nolan", "Scott"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which movie has the character Neo?",
+      "answers": ["Matrix", "Avatar", "Incept"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which film features dinosaurs?",
+      "answers": ["Jurassic", "Jaws", "Alien"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who played Iron Man?",
+      "answers": ["Downey", "Evans", "Hemsw"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie won Best Picture 2020?",
+      "answers": ["Parasite", "Joker", "1917"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Hobbits appear in which film?",
+      "answers": ["LOTR", "Narnia", "Willow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie is about blue aliens?",
+      "answers": ["Avatar", "Gravity", "Aliens"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed Inception?",
+      "answers": ["Nolan", "Burton", "Kubrik"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film stars Jack Sparrow?",
+      "answers": ["Pirates", "Titanic", "Hook"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie features a clown villain?",
+      "answers": ["Joker", "Venom", "Logan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie is about dream heists?",
+      "answers": ["Incept", "Tenet", "Memento"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie has talking toys?",
+      "answers": ["ToyStory", "Cars", "Up"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is set on Pandora?",
+      "answers": ["Avatar", "Dune", "Alien"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who played Batman in 2008?",
+      "answers": ["Bale", "Affleck", "Keaton"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie features a DeLorean?",
+      "answers": ["BTTF", "Tron", "Speed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is about a boxing underdog?",
+      "answers": ["Rocky", "Creed", "Raging"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie has a sinking ship?",
+      "answers": ["Titanic", "Poseidon", "Jaws"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie features Simba?",
+      "answers": ["LionKing", "Tarzan", "Bambi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is about space travel?",
+      "answers": ["Interst", "Apollo", "Alien"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie features a ring?",
+      "answers": ["LOTR", "Hobbit", "Willow"],
       "correctAnswerIndex": 0
     }
   ]
